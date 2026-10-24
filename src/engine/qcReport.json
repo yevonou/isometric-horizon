@@ -1,0 +1,18 @@
+{
+  "fileName": "video.mp4",
+  "fileSizeBytes": 4366960,
+  "fileSizeMB": 4.16,
+  "width": 1920,
+  "height": 1080,
+  "fps": 30,
+  "nbFrames": 300,
+  "durationSeconds": 10,
+  "videoCodec": "H.264 (High Profile, yuv420p)",
+  "audioCodec": "AAC LC Stereo",
+  "audioSampleRate": 48000,
+  "audioChannels": 2,
+  "integratedLufs": -14,
+  "truePeakDbtp": -1.2,
+  "renderElapsedSeconds": 29.88,
+  "passedAllSpecs": true
+}
